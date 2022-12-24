@@ -1,1 +1,1 @@
-# appy_family
+# Polito-HCI-AppyFamily
